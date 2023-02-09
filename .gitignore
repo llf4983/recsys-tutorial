@@ -5,3 +5,8 @@
 *.iml
 analysis.log
 tomcat/logs/
+target/
+.settings/
+.project
+.classpath
+.factorypath
